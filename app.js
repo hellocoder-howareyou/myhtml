@@ -4,3 +4,5 @@ console.log("Hello from master");
 
 console.log("Hello from junior");
 
+let x  = 100
+
